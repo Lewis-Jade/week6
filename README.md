@@ -10,7 +10,7 @@ You can access the complete assignment PDF here:
 
 [View Assignment PDF](https://drive.google.com/file/d/1bVTUjnpV33hHgaViwBHWF9XaZS8UdDT4/view?usp=sharing)
 
-> Replace `YOUR_GOOGLE_DRIVE_LINK_HERE` with the shareable Google Drive link.
+
 
 ---
 
